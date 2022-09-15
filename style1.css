@@ -1,0 +1,73 @@
+
+#Tentang{
+    padding: 10%
+}
+
+.buttonBerita{
+    background-color: #369284;
+    margin-left: 10px;
+}
+
+
+#LogForm{
+    color:  #369284;
+    text-shadow: 0px 0px 1px #2e2e2e;
+    margin-bottom: 15px;
+}
+
+#LoginForm{
+    padding: 10%;
+}
+
+#footerya{
+    padding-top: 40px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#footerText{
+    font-family: 'cursive', sans-serif;
+}
+
+.iniNav{
+    background-color: #369284;
+}
+
+.iniFoot{
+    background-color: #369284;
+}
+#logoSumba{
+    margin-right: 10px;
+}
+
+
+.buttonLogForm{
+    background-color: #369284;
+}
+
+#formulirSection{
+    padding-top: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+hr {
+    display: block;
+    height: 10px;
+    border: 0;
+    border-top: 10px solid #369284;
+    padding: 0;
+}
+
+#headerPengaduan{
+    font-family: Roboto, sans-serif;
+}
+
+.textFormulir{
+    font-weight: normal;
+    text-align: center;
+}
+
+.pengisianForm{
+    padding: 10px;
+}

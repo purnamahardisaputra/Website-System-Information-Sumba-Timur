@@ -1,0 +1,124 @@
+#headerBerita{
+    color: #2e2e2e;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 45px;
+}
+
+#Gallery{
+    background-color: #effcf1;
+}
+
+#headerTentang{
+    color: #2e2e2e;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 45px;
+}
+
+#Berita{
+    background-color: #effcf1;
+    padding: 10%
+}
+
+#gmbrBerita{
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #2e2e2e;
+}
+
+hr {
+    display: block;
+    height: 10px;
+    border: 0;
+    border-top: 10px solid #369284;
+    padding: 0;
+}
+
+#Tentang{
+    padding: 10%
+}
+
+#headerGallery{
+    color: #2e2e2e;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 45px;
+}
+
+.gmbrTentang{
+    box-shadow: 0px 0px 10px #2e2e2e;
+    border-radius: 10px;
+}
+
+.textPage{
+    padding-top: 10px;
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+}
+
+.buttonBerita{
+    background-color: #369284;
+    margin-left: 10px;
+}
+
+.txtAbout{
+    padding: 5%;
+    text-align: justify;
+}
+
+#Gallery{
+    padding: 10%;
+}
+
+.gambarGallery{
+    box-shadow: 0px 0px 10px #2e2e2e;
+    border-radius: 10px;
+}
+
+#LogForm{
+    color:  #369284;
+    text-shadow: 0px 0px 1px #2e2e2e;
+    margin-bottom: 15px;
+}
+
+#LoginForm{
+    padding: 10%;
+}
+
+#footerya{
+    padding-top: 40px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#footerText{
+    font-family: 'cursive', sans-serif;
+}
+
+.iniNav{
+    background-color: #369284;
+    text-align: center;
+}
+
+.iniFoot{
+    background-color: #369284;
+}
+#logoSumba{
+    margin-right: 10px;
+}
+
+
+.buttonLogForm{
+    background-color: #369284;
+}
+
+#formPengaduan{
+    padding: 10%;
+}
